@@ -50,3 +50,22 @@ The Marvell 88Q2112-A2 and Broadcom BCM54210 are both Ethernet physical layer tr
 * 1000Base-T1 has a speed of 1Gbps
 * 100Base-T1 uses a single pair of unshielded cables to carry a full duplex signal. 100Base-TX uses two pairs of wires, one for transmission and one for reception.
 
+**Cables**
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Cable provided by the Vector </p></figcaption></figure>
+
+VN CAN cable 2Y
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+VN  cable 3Y
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+AE cable 2Y
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+CANterm120
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
