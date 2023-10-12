@@ -21,7 +21,7 @@ Break out box of CDCC (90 pin generic version)
 
 XETK - INCA (Hardware).
 
-e - TAS XETK Hardware
+e - TAS XETK Hardware.
 
 
 

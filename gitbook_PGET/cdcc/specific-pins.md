@@ -10,7 +10,7 @@ B06: LT2-t2 AI\_NT2 sensor,  A10: LT3-AI\_NT1\_2 -- 5V/0.1A pull up type  (Analo
 
 B17/B18  : HSO\_ES\_1 engine mount -- 16V/0.75A  1.8 IMax driver (Open Emitter (High side)) (Power switch/driver)
 
-B29: DI\_iTM\_SO                               -- 12V/0.1A pull down (Not for 12V Starter not MMA) (Digital input)
+B29: DI\_iTM\_SO                               -- 12V/0.1A pull down (Not for 12V Starter not MMA) (Digital input), Resistance  > 120 $$\Omega$$
 
 A19: LSO\_HPM                                  --  13V/1A   Imax driver: 2A (Open Collector (Low side)) (only for MMA) (Power switch/driver).
 
